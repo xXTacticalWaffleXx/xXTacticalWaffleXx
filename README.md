@@ -1,4 +1,5 @@
-### Hi there 👋
+contact me at: discord Tactical Waffle#1560
+gpg key: https://keys.openpgp.org/vks/v1/by-fingerprint/C5DB926BE996C4CF1A6CC78760558DBAD63799A5
 
 <!--
 **xXTacticalWaffleXx/xXTacticalWaffleXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
