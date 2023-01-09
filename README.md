@@ -1,4 +1,4 @@
-contact me at: discord Tactical Waffle#1560
+contact me at: discord Tactical Waffle#1560 <br>
 gpg key: https://keys.openpgp.org/vks/v1/by-fingerprint/C5DB926BE996C4CF1A6CC78760558DBAD63799A5
 
 <!--
